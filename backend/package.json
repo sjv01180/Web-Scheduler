@@ -1,5 +1,5 @@
 {
-  "name": "Web-Scheduler",
+  "name": "Web-Scheduler-Backend",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/app.js",
